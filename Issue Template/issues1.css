@@ -1,0 +1,63 @@
+/*SIMPLE AND FRESH THEME:
+#414141 MATTE (BROWNISH GRAY)
+#CCDFCB FRESH (LIGHT BLUE)
+#FF6A5C WATERMELON (PINK)
+#056571 TEAL*/
+
+body #wrapper{
+	font-family:Inconsolata, serif;
+}
+
+
+body #title{
+
+	width: 60%;
+	color: #ffffff;
+	text-align: center;
+	font-family: Tahoma;
+	border-style: outset;
+	border-color:  #CCDFCB;
+	border-width: 5px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-shadow: 3px 2px #B4B0AD;
+	margin: auto;
+	background-color: #CCDFCB;
+}
+	
+
+body h3{
+	text-decoration: underline;
+	text-decoration: bold;
+	text-align: center;
+}
+
+body #boxes{
+	color: #000000;
+	display: flex;
+	align-self: center;	
+}
+
+body .floating-box{
+	display: inline-block;
+	width: 20%;
+	padding-top: 2px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	height:500px;
+	margin:10px;
+	border: 3px solid #FF6A5C;
+	background-color: #056571;
+	text-align: justify;
+}
+body #overflow{
+	overflow: hidden;
+
+}
+
+
+
+
+
+
